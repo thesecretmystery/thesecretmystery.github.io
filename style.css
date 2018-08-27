@@ -1,3 +1,8 @@
+form {
+    margin: auto, auto;
+    width: auto;
+}
+
 span { 
     display:block;
     width:auto;
